@@ -1,0 +1,1 @@
+const inputTexto = document.queryselector(".input-texto")

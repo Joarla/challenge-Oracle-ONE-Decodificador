@@ -1,0 +1,13 @@
+* {
+	font-family: "Inter", sans-serif;
+	font-size: 32px;
+	font-weight: 400;
+}
+
+main {
+	display: flex;
+}
+
+body {
+	background: #E5E5E5;
+}
